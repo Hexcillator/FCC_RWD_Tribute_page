@@ -1,0 +1,40 @@
+#main {
+  margin: 5px auto;
+  padding: 5% 10% 15% 10%;
+  border: 0px solid;
+  border-radius: 5px;
+  background: #e4f1f6;
+}
+
+body {
+  background: #e4f1f6;
+  font-family: "Times New Roman";
+}
+#image {
+  width: 100%;
+  height: auto;
+  margin-left: auto;
+  margin-right: auto;
+}
+#img-div {
+  background-color: #347b98;
+}
+
+h1 {
+  font-size: 40px;
+  text-align: center;
+  color: #092834;
+}
+h2 {
+  font-size: 25px;
+  text-align: center;
+  color: #092834;
+}
+p {
+  font-size: 16px;
+  color: #092834;
+}
+
+#external-link {
+  text-align: center;
+}
